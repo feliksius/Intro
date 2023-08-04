@@ -5,3 +5,6 @@
 
 <h2>👨🏻‍💻 About Me </h2><br>
 Hi, i'm Feliks Lourensius. Fullstack Developer & ChatBot Developer. I'm from Indonesia and I've been working as a IT Consultant for more than 5 years. Am also the founder of the Solusi Kreatif Sistema.
+<hr>
+<h2>My Tech</h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
